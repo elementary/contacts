@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2025-07-28 22:55+0000\n"
-"Last-Translator: lenemter <lenemter@gmail.com>\n"
-"Language-Team: Russian <https://l10n.elementaryos.org/projects/friends/extra/"
-"ru/>\n"
+"PO-Revision-Date: 2025-08-03 10:55+0000\n"
+"Last-Translator: кубик круглый <megarainbow29@gmail.com>\n"
+"Language-Team: Russian <https://l10n.elementaryos.org/projects/contacts/"
+"extra/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,17 +22,15 @@ msgstr ""
 
 #: data/contacts.metainfo.xml.in:10 data/contacts.desktop.in:3
 msgid "Contacts"
-msgstr ""
+msgstr "Контакты"
 
 #: data/contacts.metainfo.xml.in:11 data/contacts.desktop.in:4
 msgid "Find and connect with contacts"
-msgstr "Поиск и подключение контактов"
+msgstr "Находите и связывайтесь с контактами"
 
 #: data/contacts.metainfo.xml.in:13
-#, fuzzy
-#| msgid "See and contact your friends from elementary OS"
 msgid "See and get in touch with your contacts from elementary OS"
-msgstr "Поиск и подключение контактов через elementary OS"
+msgstr "Просматривайте и связывайтесь с вашими контактами через elementary OS"
 
 #: data/contacts.metainfo.xml.in:35
 msgid "elementary, Inc."
