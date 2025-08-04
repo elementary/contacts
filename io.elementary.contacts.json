@@ -56,7 +56,8 @@
                         "versions": {
                             "<": "3.57"
                         }
-                    }
+                    },
+                    "commit": "9330886fe4c5685bd18d1979bd5c60cb9c3fcc6d"
                 }
             ],
             "modules": [
@@ -98,7 +99,8 @@
                             "x-checker-data": {
                                 "type": "git",
                                 "tag-pattern": "^v([\\d.]+)$"
-                            }
+                            },
+                            "commit": "57ce34025066935f356fd539e6deb7a7a9952618"
                         }
                     ]
                 }
@@ -123,7 +125,8 @@
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
-                    }
+                    },
+                    "commit": "f57424e8411bb0b005483593ed11025a838ab19f"
                 }
             ]
         },
