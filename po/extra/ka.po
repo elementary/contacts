@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2023-03-12 10:25+0000\n"
+"PO-Revision-Date: 2025-08-09 11:55+0000\n"
 "Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
-"Language-Team: Georgian <https://l10n.elementary.io/projects/friends/extra/"
-"ka/>\n"
+"Language-Team: Georgian <https://l10n.elementaryos.org/projects/contacts/"
+"extra/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: data/contacts.metainfo.xml.in:10 data/contacts.desktop.in:3
 msgid "Contacts"
-msgstr ""
+msgstr "კონტაქტები"
 
 #: data/contacts.metainfo.xml.in:11 data/contacts.desktop.in:4
 msgid "Find and connect with contacts"
@@ -29,7 +29,7 @@ msgstr "იპოვეთ და დაუკავშირდით კონ
 
 #: data/contacts.metainfo.xml.in:13
 msgid "See and get in touch with your contacts from elementary OS"
-msgstr ""
+msgstr "ნახეთ და დაუკავშირდით თქვენს კონტაქტებს elementary OS-დან"
 
 #: data/contacts.metainfo.xml.in:35
 msgid "elementary, Inc."
