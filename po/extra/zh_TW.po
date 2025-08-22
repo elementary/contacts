@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2025-08-22 13:12+0000\n"
+"PO-Revision-Date: 2025-08-22 15:58+0000\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://"
 "l10n.elementaryos.org/projects/contacts/extra/zh_Hant/>\n"
@@ -29,11 +29,11 @@ msgstr "尋找並聯繫聯絡人"
 
 #: data/contacts.metainfo.xml.in:13
 msgid "See and get in touch with your contacts from elementary OS"
-msgstr ""
+msgstr "在 elementary OS 查看並聯繫您的聯絡人"
 
 #: data/contacts.metainfo.xml.in:35
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/contacts.desktop.in:5
 msgid "Address Book"
