@@ -8,35 +8,37 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2018-12-27 16:06-0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-10-22 08:07+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://l10n.elementaryos.org/projects/contacts/"
+"extra/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ASCII\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: data/contacts.metainfo.xml.in:10 data/contacts.desktop.in:3
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakter"
 
 #: data/contacts.metainfo.xml.in:11 data/contacts.desktop.in:4
 msgid "Find and connect with contacts"
-msgstr ""
+msgstr "Hitta och interagera med kontakter"
 
 #: data/contacts.metainfo.xml.in:13
 msgid "See and get in touch with your contacts from elementary OS"
-msgstr ""
+msgstr "Se och ta kontakt med dina kontakter från elementary OS"
 
 #: data/contacts.metainfo.xml.in:35
 msgid "elementary, Inc."
-msgstr ""
+msgstr "elementary, Inc."
 
 #: data/contacts.desktop.in:5
 msgid "Address Book"
-msgstr ""
+msgstr "Adressbok"
 
 #: data/contacts.desktop.in:8
 msgid "address;contacts;"
-msgstr ""
+msgstr "adress;kontakter;"
