@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: io.elementary.contacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2025-10-22 08:07+0000\n"
+"PO-Revision-Date: 2025-10-30 13:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/contacts/"
 "contacts/sv/>\n"
@@ -29,7 +29,7 @@ msgstr "Kontakter"
 
 #: src/MainWindow.vala:57
 msgid "Search Contacts"
-msgstr "Sök kontakter"
+msgstr "Sök efter kontakter"
 
 #: src/MainWindow.vala:164 src/MainWindow.vala:167
 msgid "#"
