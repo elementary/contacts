@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2025-07-30 11:35+0000\n"
+"PO-Revision-Date: 2025-12-18 23:55+0000\n"
 "Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
-"Language-Team: Ukrainian <https://l10n.elementaryos.org/projects/friends/"
+"Language-Team: Ukrainian <https://l10n.elementaryos.org/projects/contacts/"
 "extra/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -22,17 +22,15 @@ msgstr ""
 
 #: data/contacts.metainfo.xml.in:10 data/contacts.desktop.in:3
 msgid "Contacts"
-msgstr ""
+msgstr "Контакти"
 
 #: data/contacts.metainfo.xml.in:11 data/contacts.desktop.in:4
 msgid "Find and connect with contacts"
 msgstr "Пошук та зв'язок з контактами"
 
 #: data/contacts.metainfo.xml.in:13
-#, fuzzy
-#| msgid "See and contact your friends from elementary OS"
 msgid "See and get in touch with your contacts from elementary OS"
-msgstr "Переглядайте та контактуйте з друзями з elementary OS"
+msgstr "Переглядайте та зв'язуйтеся зі своїми контактами з elementary OS"
 
 #: data/contacts.metainfo.xml.in:35
 msgid "elementary, Inc."
