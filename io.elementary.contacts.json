@@ -49,14 +49,11 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/GNOME/evolution-data-server.git",
-                    "tag": "3.56.2",
-                    "commit": "9330886fe4c5685bd18d1979bd5c60cb9c3fcc6d",
+                    "tag": "3.60.2",
+                    "commit": "c63344d7f4891503c108eda5faf50621ccb2602d",
                     "x-checker-data": {
                         "type": "git",
-                        "tag-pattern": "^([\\d.]+)$",
-                        "versions": {
-                            "<": "3.57"
-                        }
+                        "tag-pattern": "^(\\d+.\\d*[02468].\\d+)$"
                     }
                 }
             ],
@@ -95,8 +92,8 @@
                         {
                             "type": "git",
                             "url": "https://github.com/libical/libical.git",
-                            "tag": "v3.0.20",
-                            "commit": "57ce34025066935f356fd539e6deb7a7a9952618",
+                            "tag": "v4.0.3",
+                            "commit": "9b8163c78dfb43e8b700e6c7e531f0df64c208bf",
                             "x-checker-data": {
                                 "type": "git",
                                 "tag-pattern": "^v([\\d.]+)$"
