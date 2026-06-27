@@ -81,11 +81,11 @@
                     "config-opts": [
                         "-DCMAKE_BUILD_TYPE=RelWithDebInfo",
                         "-DCMAKE_INSTALL_LIBDIR=/app/lib",
-                        "-DWITH_CXX_BINDINGS=false",
-                        "-DSHARED_ONLY=true",
-                        "-DGOBJECT_INTROSPECTION=true",
-                        "-DICAL_BUILD_DOCS=false",
-                        "-DICAL_GLIB_VAPI=true",
+                        "-DLIBICAL_CXX_BINDINGS=false",
+                        "-DLIBICAL_JAVA_BINDINGS=false",
+                        "-DLIBICAL_GOBJECT_INTROSPECTION=true",
+                        "-DLIBICAL_BUILD_DOCS=false",
+                        "-DLIBICAL_GLIB_VAPI=true",
                         "-DLIBICAL_BUILD_TESTING=false"
                     ],
                     "sources": [
