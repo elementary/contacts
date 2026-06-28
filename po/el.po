@@ -8,27 +8,29 @@ msgstr ""
 "Project-Id-Version: io.elementary.contacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-01 15:50+0000\n"
-"PO-Revision-Date: 2018-12-27 16:06-0800\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-06-29 09:16+0000\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
+"Language-Team: Greek <https://l10n.elementaryos.org/projects/contacts/"
+"contacts/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ASCII\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.5\n"
 
 #: src/IndividualView.vala:25
 msgid "No Contact Selected"
-msgstr ""
+msgstr "Καμία επιλεγμένη επαφή"
 
 #: src/MainWindow.vala:30
 msgid "Contacts"
-msgstr ""
+msgstr "Επαφές"
 
 #: src/MainWindow.vala:57
 msgid "Search Contacts"
-msgstr ""
+msgstr "Αναζήτηση επαφών"
 
 #: src/MainWindow.vala:164 src/MainWindow.vala:167
 msgid "#"
-msgstr ""
+msgstr "#"
