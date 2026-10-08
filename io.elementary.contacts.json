@@ -1,7 +1,7 @@
 {
     "id": "io.elementary.contacts",
     "runtime": "io.elementary.Platform",
-    "runtime-version": "8.2",
+    "runtime-version": "9.1",
     "sdk": "io.elementary.Sdk",
     "command": "io.elementary.contacts",
     "finish-args": [
